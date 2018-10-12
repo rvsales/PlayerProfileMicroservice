@@ -38,7 +38,6 @@ public class PlayerProfileService {
 		}
 	}
 	
-
 	public PlayerProfileModel savePlayerProfileModel(PlayerProfileModel entity) throws PlayerProfileException{
 		
 		if(entity == null) {
